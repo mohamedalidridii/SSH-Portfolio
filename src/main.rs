@@ -223,9 +223,6 @@ fn main() -> crossterm::Result<()> {
     portfolio.run()?;
     
     println!("\n✨ Thanks for visiting my portfolio! ✨\n");
-    println!("📧 Email: your.email@example.com");
-    println!("🔗 GitHub: github.com/yourusername");
-    println!("💼 LinkedIn: linkedin.com/in/yourusername\n");
     
     Ok(())
 }
