@@ -14,7 +14,7 @@ const BOX_HEIGHT: usize = 20;
 const INNER_BOX_WIDTH: usize = 20;
 const INNER_BOX_HEIGHT: usize = 3;
 const CHARACTERS: &str = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
-const LOADING_TEXT: &str = "LOADING STORE";
+const LOADING_TEXT: &str = "Loading Portfolio";
 
 fn generate_random_string(length: usize) -> String {
     let mut rng = rand::thread_rng();
