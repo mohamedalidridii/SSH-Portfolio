@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  ssh-portfolio:
+    build: .
+    container_name: medaly-ssh-portfolio
+    ports:
+      - "2222:22"  # Map host port 22 to container port 22
+      # Or use different port: "2222:22" for testing
+    restart: unless-stopped
+    environment:
+      - TERM=xterm-256color
+    
+    # resource limits
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 256M
+        reservations:
+          cpus: '0.25'
+          memory: 128M
