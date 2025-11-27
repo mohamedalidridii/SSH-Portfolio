@@ -1,4 +1,4 @@
-// main.rs
+use crossterm::event::{DisableMouseCapture};
 use crossterm::{
     event::{self, Event, KeyCode, KeyEvent, KeyModifiers},
     execute,
@@ -191,7 +191,7 @@ impl Portfolio {
         let mut stdout = io::stdout();
         
         enable_raw_mode()?;
-        execute!(stdout, EnterAlternateScreen, cursor::Hide)?;
+        execute!(stdout, EnterAlternateScreen, cursor::Hide, DisableMouseCapture)?;
         
         let result = self.main_loop(&mut stdout);
         
@@ -202,17 +202,19 @@ impl Portfolio {
     }
 
     fn main_loop(&mut self, stdout: &mut io::Stdout) -> crossterm::Result<()> {
+       
+        self.render(stdout)?;
         loop {
             // Update terminal size
             let (width, height) = crossterm::terminal::size()?;
             self.terminal_width = width;
             self.terminal_height = height;
             
-            self.render(stdout)?;
             
             if !self.handle_input()? {
                 break;
             }
+        self.render(stdout)?;
         }
         Ok(())
     }
@@ -222,7 +224,7 @@ fn main() -> crossterm::Result<()> {
     let mut portfolio = Portfolio::new();
     portfolio.run()?;
     
-    println!("\n✨ Thanks for visiting my portfolio! ✨\n");
+    println!("\n✨ Thanks for visiting btw I use Arch! ✨\n");
     
     Ok(())
 }

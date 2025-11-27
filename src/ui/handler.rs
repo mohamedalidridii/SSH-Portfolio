@@ -64,8 +64,8 @@ impl PageContent {
 
   ╔════════════════════════════════════════════════════════════════════╗
   ║                                                                    ║
-  ║   "Hey! new friend? (I use Arch btw)"                            ║
-  ║   "Welcome to localhost community"                                ║
+  ║   "Hey! new friend? (I use Arch btw)"                              ║
+  ║   "Welcome to localhost community"                                 ║
   ║                                                                    ║
   ╚════════════════════════════════════════════════════════════════════╝
 
@@ -244,8 +244,8 @@ Want to collaborate? Check out my contact page!
 
   ┌─────────────────────────────────────────────────────────────┐
   │                                                             │
-  │   "I believe technology should always feel like art."      │
-  │                    - Med Ali Dridi                         │
+  │   "I believe technology should always feel like art."       │
+  │                    - Med Ali Dridi                          │
   │                                                             │
   └─────────────────────────────────────────────────────────────┘
 
@@ -266,13 +266,13 @@ looked back since.
 
 ## What Drives Me
 
-- 🎨 Creating web experiences that feel like art
-- 🚀 Pushing the limits of web performance and animation
-- ⚙️  Building robust, scalable infrastructure
-- 💡 Innovation at the intersection of design and technology
-- 🌍 Empowering businesses through digital transformation
-- 📚 Continuous learning and experimentation
-- 🤝 Sharing knowledge with the community
+-  Creating web experiences that feel like art
+-  Pushing the limits of web performance and animation
+-  Building robust, scalable infrastructure
+-  Innovation at the intersection of design and technology
+-  Empowering businesses through digital transformation
+-  Continuous learning and experimentation
+-  Sharing knowledge with the community
 
 
 ## Education
@@ -345,13 +345,13 @@ their digital presence to stand out and make an impact.
 ## Beyond Code
 
 When I'm not coding or creating content, you can find me:
-- 🕺 Debugging at 1 a.m. (my most productive hours!)
-- 🎬 Creating Reels about tech and creativity
-- 🖥️  Exploring new web technologies and frameworks
-- 🏗️  Experimenting with 3D and animation techniques
-- 🌐 Contributing to tech communities
-- 📖 Learning about design and storytelling
-- 🎮 Finding inspiration in unexpected places
+-  Debugging at 1 a.m. (my most productive hours!)
+-  Creating Reels about tech and creativity
+-  Exploring new web technologies and frameworks
+-  Experimenting with 3D and animation techniques
+-  Contributing to tech communities
+-  Learning about design and storytelling
+-  Finding inspiration in unexpected places
 
 
 ## Philosophy
@@ -371,12 +371,12 @@ I believe that:
 
 ## Fun Facts
 
-- 🐧 I use Arch Linux (btw)
-- 🎨 Every project is a chance to push creative boundaries
-- 🌍 Based in Tunisia, working with clients worldwide
-- 💬 Active in tech communities and open to mentorship
-- 🚀 Always experimenting with emerging technologies
-- 🎯 Goal: Make the web more beautiful, one project at a time
+-  I use Arch Linux (btw)
+-  Every project is a chance to push creative boundaries
+-  Based in Tunisia, working with clients worldwide
+-  Active in tech communities and open to mentorship
+-  Always experimenting with emerging technologies
+-  Goal: Make the web more beautiful, one project at a time
 
 
 ## Community & Impact
@@ -401,13 +401,13 @@ Let's build something extraordinary together!
 
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
-  ║   I'm always excited to discuss new projects, creative      ║
-  ║   ideas, or opportunities to collaborate.                   ║
+  ║   I'm always excited to discuss new projects, creative       ║
+  ║   ideas, or opportunities to collaborate.                    ║
   ║                                                              ║
   ╚══════════════════════════════════════════════════════════════╝
 
 
-## 📱 Social Media & Links
+##  Social Media & Links
 
 ### Instagram
 https://instagram.com/medaly.dridi
@@ -426,7 +426,7 @@ https://linktr.ee/medaly.dridi
 All my links in one place
 
 
-## 💬 Ways to Connect
+##  Ways to Connect
 
 ### For Business Inquiries
 - Web development projects (KOYOTEC DIGITAL)
@@ -447,7 +447,7 @@ All my links in one place
 - Knowledge sharing and mentorship
 
 
-## 🌍 Location & Availability
+##  Location & Availability
 
 ### Based In
 Tunisia (Open to remote work worldwide)
@@ -463,7 +463,7 @@ Serving local and international clients
 - Mentorship: Happy to help aspiring developers
 
 
-## 🛠️ What I Can Help With
+##  What I Can Help With
 
 - Modern web development (Next.js, React)
 - Stunning animations and 3D experiences (GSAP, Three.js)
@@ -474,7 +474,7 @@ Serving local and international clients
 - Career advice for transitioning engineers
 
 
-## 💼 KOYOTEC DIGITAL Services
+##  KOYOTEC DIGITAL Services
 
 - Custom web application development
 - High-performance, animated websites
@@ -485,7 +485,7 @@ Serving local and international clients
 - Ongoing maintenance and support
 
 
-## 📝 Before You Reach Out
+##  Before You Reach Out
 
 To help me respond effectively:
 - Brief introduction about yourself or your company
@@ -495,7 +495,7 @@ To help me respond effectively:
 - Where you found me / what interested you
 
 
-## 🚀 Current Status
+##  Current Status
 
 ```
 Agency: KOYOTEC DIGITAL - Active & Taking Projects
@@ -506,7 +506,7 @@ Remote Work: ✓ Available Worldwide
 ```
 
 
-## 💡 Let's Collaborate!
+##  Let's Collaborate!
 
 Whether you have:
 - An ambitious web project
@@ -526,7 +526,7 @@ I'd love to hear from you!
   └───────────────────────────────────────────────────────────┘
 
 
-## 🔐 Terminal Access
+##  Terminal Access
 
 Want to access this portfolio remotely?
 
@@ -539,7 +539,7 @@ curl https://www.medaly.engineer
 ```
 
 
-## 🎯 Quick Response
+##  Quick Response
 
 I typically respond to:
 - Business inquiries: Within 24-48 hours
